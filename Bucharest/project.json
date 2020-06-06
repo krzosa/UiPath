@@ -1,6 +1,6 @@
 {
-  "name": "GetTimeInBucharest",
-  "description": "This workflow gets the current time in Bucharest and displays it in the Output Panel",
+  "name": "Bucharest",
+  "description": "",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[19.6.0]",
